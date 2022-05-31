@@ -1,12 +1,13 @@
+
 server:
-  port: 9191
+  port: 9197
 spring:
   h2:
     console:
       enabled: true
 
   application:
-    name: STOREDETAIL-SERVICE      
+    name: STORE-SERVICE      
 
       
 eureka:
